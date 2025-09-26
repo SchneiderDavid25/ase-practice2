@@ -1,3 +1,4 @@
+![example workflow](https://github.com/SchneiderDavid25/ase-practice2/actions/workflows/ci.yml/badge.svg)
 # Estimating Text Similarity by Shingling
 
 **Authors:** Ármin Zavada, Kristóf Marussy
